@@ -1,3 +1,0 @@
-Add scheduler task
-
-schtasks /create /tn Task /tr C:\ /sc onlogon
