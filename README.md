@@ -2,7 +2,7 @@
 
 A series of little scripts to try speedup IE testing on XP in a Virtual Machine, namely VirtualBox on OSX. The genesis for this was wondering whether a change not showing was due to not fixing the problem or IE's cache not being cleared. 
 
-There's also a tool for changing the homepage for IE from the command prompt. This is useful if working on the same project for an extended period of time as negates the need to constantly retype the URL. 
+There's also a tool for changing the homepage for IE from the command prompt. This is useful if working on the same project for an extended period of time as it negates the need to constantly retype the URL. 
 
 hosts.bat can be used to add the projects VirtualHost name and local i.p. address to the virtual machine's host file to ensure the host machine can serve the site. 
 
@@ -21,4 +21,4 @@ hosts.bat can be used to add the projects VirtualHost name and local i.p. addres
 
 ### Suggestions ###
 
-I did this for myself, any observations or suggestions are more than welcome. 
+I did this for myself, any observations or suggestions are more than welcome.
