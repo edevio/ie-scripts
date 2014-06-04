@@ -1,29 +1,24 @@
-# README #
+# IE Testing Tools #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A series of little scripts to try speedup IE testing on XP in a Virtual Machine, namely VirtualBox on OSX. The genesis for this was wondering whether a change not showing was due to not fixing the problem or IE's cache not being cleared. 
 
-### What is this repository for? ###
+There's also a tool for changing the homepage for IE from the command prompt. This is useful if working on the same project for an extended period of time as negates the need to constantly retype the URL. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+hosts.bat can be used to add the projects VirtualHost name and local i.p. address to the virtual machine's host file to ensure the host machine can serve the site. 
 
-### How do I get set up? ###
+### Used For ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Speeding up (my) IE testing
+* v0.1
 
-### Contribution guidelines ###
+### Setup ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* Download All Files
+* Put homepage.ps1 a directory up, or amend change_url.cmd
+* Change IE's homepage with change_url.cmd
+* Use ie.bat from then onwards
+* Quickly add any new projects to the hosts file using hosts.bat
 
-### Who do I talk to? ###
+### Suggestions ###
 
-* Repo owner or admin
-* Other community or team contact
+I did this for myself, any observations or suggestions are more than welcome. 
