@@ -25,9 +25,6 @@ hosts.bat can be used to add the projects VirtualHost name and local i.p. addres
 
 I did this for myself, any observations or suggestions are more than welcome.
 
-### Help ###
+### Recognition ###
 
 I pulled snippets of information and code from various sources, some pretty obscure. If you recognise your work and want a mention please send me a message.
-
-
-
